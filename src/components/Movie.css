@@ -1,0 +1,36 @@
+.title{
+    border: solid 2px green;
+    border-bottom: 30px;
+    padding: 20px;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    background-color: darkgray;
+}
+
+.background{
+    background-color:darkgray;
+    height: 500px;
+    width: 200%;
+    
+}
+
+.bg1{
+    background-color: whitesmoke;
+    width: 250px;
+    height: 250px;
+    margin-left: 50PX;
+    text-align: center;
+}
+
+.img{
+    width: 250px;
+    height: 250px;
+    /* margin-top: 10px;
+    margin-left: 80px; */
+}
+
+.ready{
+    display: flex;
+    flex-wrap: wrap;
+}
